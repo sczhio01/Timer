@@ -36,12 +36,14 @@ Follow the prompts and enter the time.
 📂 File Structure
 
 timerclock.py
+
 README.md
 
 
 🛠 Technologies Used
 
 Python
+
 time module
 
 
